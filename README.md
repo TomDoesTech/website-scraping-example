@@ -11,3 +11,7 @@ Parse a HTML page to extract data
 ## Why scraping
 * Jobs are quick
 * Improve your programming skills
+
+## Running the code
+* Make sure you are using node version 14 or higher `nvm use 14`
+* Run `node index.mjs`
